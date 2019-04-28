@@ -1,0 +1,4 @@
+Finished epoch 0 in  19258, dev_loss: 0.8079, val_loss: 0.8103, weighted_auc: 0.9302819784743035, overall_auc: 0.9641041672364172 
+Finished epoch 1 in  19232, dev_loss: 0.7683, val_loss: 0.8118, weighted_auc: 0.9293241044143816, overall_auc: 0.9635954350163636 
+Finished epoch 2 in  19216, dev_loss: 0.7387, val_loss: 0.8199, weighted_auc: 0.9262109355292137, overall_auc: 0.9625743332000757 
+Finished epoch 3 in  19206, dev_loss: 0.7130, val_loss: 0.8547, weighted_auc: 0.9195029114940432, overall_auc: 0.9597975335500426 

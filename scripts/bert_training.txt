@@ -1,0 +1,1 @@
+Finished epoch 0 in  4454, dev_loss: 0.8414, val_loss: 0.9100, weighted_auc: 0.9097898916468672, overall_auc: 0.95361916557281 

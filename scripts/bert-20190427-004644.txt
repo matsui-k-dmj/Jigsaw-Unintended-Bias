@@ -1,0 +1,6 @@
+Finished epoch 0 in  106, dev_loss: 1.6598, val_loss: 1.0508, weighted_auc: 0.6874992361576101, overall_auc: 0.7453500162940375 
+Finished epoch 1 in  105, dev_loss: 0.9193, val_loss: 0.8288, weighted_auc: 0.8657300910948511, overall_auc: 0.9278912460283284 
+Finished epoch 2 in  105, dev_loss: 0.7381, val_loss: 0.8677, weighted_auc: 0.8283478002466681, overall_auc: 0.9221665105154736 
+Finished epoch 0 in  105, dev_loss: 1.6884, val_loss: 1.0031, weighted_auc: 0.6709787095800126, overall_auc: 0.8721837033757733 
+Finished epoch 1 in  106, dev_loss: 0.8709, val_loss: 0.9314, weighted_auc: 0.7972538776001403, overall_auc: 0.9343902005065902 
+Finished epoch 2 in  106, dev_loss: 0.7236, val_loss: 0.8136, weighted_auc: 0.8525021576095914, overall_auc: 0.9408374568501748 
