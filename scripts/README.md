@@ -32,3 +32,16 @@ grad accum 8
 
 good features
 
+## large uncased 8
+
+sentence features から n_oov, n_oov_ratio だけ落とす
+
+## large uncased 9
+
+quantile = 1
+
+## large-uncased-10
+
+ large-uncased-5 で、sn 1.5
+ 
+ ここまではみんなsn1だった。
